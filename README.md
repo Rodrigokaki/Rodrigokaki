@@ -1,5 +1,5 @@
 # Rodrigo Kakiuchi de Souza
-***I love to learn and think outside the box***
+***I love to learn and to think outside the box***
 
 <hr style="height: 1px; background-color: var(--borderColor-muted, var(--color-border-muted))">
 
